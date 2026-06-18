@@ -53,6 +53,10 @@ The repository consists of the following key files:
 <ins>Run Analysis:</ins> Open ecommerce(python,sql).ipynb to execute the code and view the insights.
 
 
- 
+ ## Dataset Source
+
+This project uses the E-Commerce Target Sales Dataset from Kaggle.
+
+🔗 [E-Commerce Target Sales Dataset](https://www.kaggle.com/models/narendrabariha/e-commerce-target-sales-dataset)
 
 
