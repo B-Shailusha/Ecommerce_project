@@ -38,11 +38,9 @@ The repository consists of the following key files:
 
 <ins>Questions.txt:</ins> A dedicated file outlining the specific business questions addressed in this analysis.
 
-<ins>kaggel _dataset_link:</ins> Contains the source link for the raw data used in this project.
-
 ## How to Use:
 
-<ins>Data Source:</ins> Use the provided kaggel _dataset_link to download the raw data.
+<ins>Data Source:</ins> Use the provided kaggel dataset link to download the raw data.
 
 <ins>Database Setup:</ins> Import the dataset into your MySQL server.
 
